@@ -1,2 +1,2 @@
-#Opis zespolu
+# Opis zespolu
 zespul tresc
