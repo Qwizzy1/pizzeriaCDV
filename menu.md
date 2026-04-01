@@ -19,4 +19,4 @@
 |2.  |FUNGI (sos pomidorowy, ser, pieczarki)             |        | 21zl|       |      |
 |3.  |Grecka (sos smietanowy, ser, feta, olowki)         |        | 24zl|       |      |
 |4.  |VESUVIO Wege (sos pomidor, ser podwujny)           |        | 26zl|       |      |
-|5.  |Hawajska wege (sos pomidor, ser, ananas)           |        | 26zl|       |      |
+|5.  |Hawajska wege (sos pomidoor, ser, ananas)          |        | 26zl|       |      |
