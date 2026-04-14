@@ -1,2 +1,7 @@
 # Opis zespolu
-zespul tresc
+
+## kierownik
+
+## Grafik
+
+## DOstawca
