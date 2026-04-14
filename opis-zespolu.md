@@ -1,4 +1,7 @@
 # Opis zespolu
+
 ## kierownik
-## grafik
-## Dostawca
+
+## Grafik
+
+## DOstawca
