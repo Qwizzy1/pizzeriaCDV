@@ -5,7 +5,7 @@
 ## Grafik
 
 ## DOstawca
-
+Adam
 ## Kushaz
 
 ## Ksiegowa
