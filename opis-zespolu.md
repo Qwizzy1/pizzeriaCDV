@@ -5,3 +5,7 @@
 ## Grafik
 
 ## DOstawca
+
+## Ksiegowa
+
+## Pracownik produkcji
