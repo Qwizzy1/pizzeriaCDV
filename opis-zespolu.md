@@ -6,6 +6,8 @@
 
 ## DOstawca
 
+## Kushaz
+
 ## Ksiegowa
 
 ## Pracownik produkcji
